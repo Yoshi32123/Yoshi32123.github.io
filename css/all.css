@@ -361,13 +361,13 @@ h2.slogan{
 	position: relative;
 }
 .plagin_list li.li_1 a{background: url(../images/my/icon_u.png) no-repeat 50% 50% ;}
-.plagin_list li.li_2 a{background: url(../images//my/icon_ue4.png) no-repeat 50% 50% ;}
-.plagin_list li.li_3 a{background: url(../images/icon_ld.png) no-repeat 50% 50% ;}
-.plagin_list li.li_4 a{background: url(../images/icon_fl.png) no-repeat 50% 50% ;}
-.plagin_list li.li_5 a{background: url(../images/icon_html.png) no-repeat 50% 50% ;}
-.plagin_list li.li_6 a{background: url(../images/icon_wp.png) no-repeat 50% 50% ;}
-.plagin_list li.li_7 a{background: url(../images/icon_jq.png) no-repeat 50% 50% ;}
-.plagin_list li.li_8 a{background: url(../images/icon_seo.png) no-repeat 50% 50% ;}
+.plagin_list li.li_2 a{background: url(../images/my/icon_ue4.png) no-repeat 50% 50% ;}
+.plagin_list li.li_3 a{background: url(../images/my/icon_gms.png) no-repeat 50% 50% ;}
+.plagin_list li.li_4 a{background: url(../images/my/icon_mg.png) no-repeat 50% 50% ;}
+.plagin_list li.li_5 a{background: url(../images/my/icon_csharp.png) no-repeat 50% 50% ;}
+.plagin_list li.li_6 a{background: url(../images/my/icon_cplusplus.png) no-repeat 50% 50% ;}
+.plagin_list li.li_7 a{background: url(../images/my/icon_js.png) no-repeat 50% 50% ;}
+.plagin_list li.li_8 a{background: url(../images/my/icon_pi.png) no-repeat 50% 50% ;}
 .wrapper-holder.grey p{padding: 0 0 25px;}
 .plagin_list.none{display: none;}
 
@@ -678,27 +678,27 @@ transition: all 0.5s ease-in-out;
 		background-size:45px 42px;
 	}
 	.plagin_list li.li_3 a{
-		background-image: url(../images/icon_ld@x2.png);
+		background-image: url(../images/my/icon_gms@x2.png);
 		background-size:40px 43px;
 	}
 	.plagin_list li.li_4 a{
-		background-image: url(../images/icon_fl@x2.png);
+		background-image: url(../images/my/icon_mg@x2.png);
 		background-size:34px 42px;
 	}
 	.plagin_list li.li_5 a{
-		background-image: url(../images/icon_html@x2.png);
+		background-image: url(../images/my/icon_csharp@x2.png);
 		background-size:39px 55px;
 	}
 	.plagin_list li.li_6 a{
-		background-image: url(../images/icon_wp@x2.png);
+		background-image: url(../images/my/icon_cplusplus@x2.png);
 		background-size:55px 55px;
 	}
 	.plagin_list li.li_7 a{
-		background-image: url(../images/icon_jq@x2.png);
+		background-image: url(../images/my/icon_js@x2.png);
 		background-size:87px 20px;
 	}
 	.plagin_list li.li_8 a{
-		background-image: url(../images/icon_seo@x2.png);
+		background-image: url(../images/my/icon_pi@x2.png);
 		background-size:60px 24px;
 	}
 	.box_contact span.email{
