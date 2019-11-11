@@ -670,11 +670,11 @@ transition: all 0.5s ease-in-out;
 		background-size:38px 38px;
 	}
 	.plagin_list li.li_1 a{
-		background-image: url(../images/my/unity.png);
+		background-image: url(../images/icon_ps@x2.png);
 		background-size:49px 42px;
 	}
 	.plagin_list li.li_2 a{
-		background-image: url(../images/my/unreal.jpg);
+		background-image: url(../images/icon_ai@x2.png);
 		background-size:45px 42px;
 	}
 	.plagin_list li.li_3 a{
