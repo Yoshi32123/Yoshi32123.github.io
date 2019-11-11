@@ -360,7 +360,7 @@ h2.slogan{
 	height: 100%;
 	position: relative;
 }
-.plagin_list li.li_1 a{background: url(../images/icon_ps.png) no-repeat 50% 50% ;}
+.plagin_list li.li_1 a{background: url(../images/my/icon_u.png) no-repeat 50% 50% ;}
 .plagin_list li.li_2 a{background: url(../images/icon_ai.png) no-repeat 50% 50% ;}
 .plagin_list li.li_3 a{background: url(../images/icon_ld.png) no-repeat 50% 50% ;}
 .plagin_list li.li_4 a{background: url(../images/icon_fl.png) no-repeat 50% 50% ;}
@@ -670,7 +670,7 @@ transition: all 0.5s ease-in-out;
 		background-size:38px 38px;
 	}
 	.plagin_list li.li_1 a{
-		background-image: url(../images/icon_ps@x2.png);
+		background-image: url(../images/my/icon_u@x2.png);
 		background-size:49px 42px;
 	}
 	.plagin_list li.li_2 a{
