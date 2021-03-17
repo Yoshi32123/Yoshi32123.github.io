@@ -52,12 +52,18 @@
     mainClass: 'mfp-img-mobile',
     gallery: {
       enabled: true,
-      navigateByImgClick: true,
+      navigateByImgClick: false,
       preload: [0, 1]
     },
     image: {
       tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
     }
   });
+
+  // // Add links to images??
+  // var test = document.querySelector(".brewery")
+  // test.onclick = function() {
+  //     window.location.href = 'https://people.rit.edu/kjm7088/330/Project-3/';
+  // };
 
 })(jQuery); // End of use strict
