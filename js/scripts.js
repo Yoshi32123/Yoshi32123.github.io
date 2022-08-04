@@ -53,6 +53,7 @@
     gallery: {
       enabled: true,
       navigateByImgClick: false,
+      arrowMarkup: '<button title="%title%" type="button" class="mfp-arrow mfp-arrow-%dir%"></button>', // markup of an arrow button
       preload: [0, 1]
     },
     image: {
